@@ -13,7 +13,7 @@ Each component is versioned, dockerized, and deployed individually, allowing ind
 
 ---
 ## Deployment Architecture Diagram 
-<img width="1794" height="798" alt="Deployment_Architecture" src="https://github.com/user-attachments/assets/eaf24248-27db-44f2-9940-c70905d8b3e7" />
+![Capstone_deployment_architecture](https://github.com/user-attachments/assets/2cdf24c8-bf62-410e-8557-780a5ed2094f)
 
 
 ## 📁 Project Structure
